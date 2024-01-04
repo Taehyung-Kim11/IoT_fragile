@@ -1,0 +1,6 @@
+/home/leoryan/test/build/CMakeFiles/intrinsics_gen.dir
+/home/leoryan/test/build/CMakeFiles/omp_gen.dir
+/home/leoryan/test/build/CMakeFiles/acc_gen.dir
+/home/leoryan/test/build/CMakeFiles/Skeleton.dir
+/home/leoryan/test/build/CMakeFiles/edit_cache.dir
+/home/leoryan/test/build/CMakeFiles/rebuild_cache.dir
